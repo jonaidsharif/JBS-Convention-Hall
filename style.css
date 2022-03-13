@@ -1,0 +1,91 @@
+/* fonts style */
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* important fonts styles */
+
+.custom-font-01 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-font-02 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.custom-font-03 {
+    font-family: 'Manrope', sans-serif;
+}
+
+.custom-font-04 {
+    font-family: 'Inter', sans-serif;
+}
+
+
+/* our packagess */
+
+.packageprice {
+    color: gray;
+}
+
+.custom-color {
+    color: blue;
+}
+
+.custom-rounded {
+    border-radius: 20px;
+}
+
+.badge-position {
+    right: 15%;
+    top: -2%;
+    font-size: 14px;
+}
+
+.custom-shadow {
+    box-shadow: 0px 30px 30px #ffc40048;
+}
+
+.custom-color-bg {
+    background-color: #ff9900;
+}
+
+.outline:hover {
+    transform: scale(1.03);
+    transition: transform 0.5s;
+}
+
+
+/* F/A styles */
+
+.text-change {
+    color: #383838;
+    font-weight: 500;
+}
+
+.paragraph-change {
+    color: #7E848C;
+}
+
+
+/* footer section */
+
+.footer-change {
+    background-color: black;
+    padding: 50px;
+    height: 280px;
+    left: 0%;
+    right: 0%;
+    top: 3368px;
+}
+
+.footer-text {
+    margin-left: 350px;
+}
+
+.footer-image {
+    height: 100px;
+}
